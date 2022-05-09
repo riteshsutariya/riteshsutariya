@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, NodeJS**
 
-- 👯 I’m looking to collaborate on **php,node**
+- 👯 I’m looking to collaborate on **php,node,react**
 
-- 💬 Ask me about **PHP, NodeJS**
+- 💬 Ask me about **PHP, NodeJS, HTML, CSS, JAVASCRIPT, ReactJS**
 
 - 📫 How to reach me **riteshsutariya91@gmail.com**
 
