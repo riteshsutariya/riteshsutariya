@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS**
 
-- 👯 I’m looking to collaborate on **nodeJS,ReactJS,PHP**
+- 👯 I’m looking to collaborate on **NodeJS,ReactJS,PHP**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, ReactJS, NodeJS, PHP**
 
