@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshsutariya&label=Profile%20views&color=0e75b6&style=flat" alt="riteshsutariya" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **NodeJS, ReactJS**
 
-- 👯 I’m looking to collaborate on **NodeJS,ReactJS,PHP**
+- 👯 I’m looking to collaborate on **NodeJS, ReactJS, PHP**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, ReactJS, NodeJS, PHP**
 
