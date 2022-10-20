@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NodeJS, ReactJS, PHP**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, ReactJS, NodeJS, PHP**
+- 💬 Ask me about **Data Structure, Operating System, Database(SQL/NoSQL), HTML, CSS, JAVASCRIPT, ReactJS, NodeJS, REST API, PHP**
 
 - 📫 How to reach me **riteshsutariya91@gmail.com**
 
