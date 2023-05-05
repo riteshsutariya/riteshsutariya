@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Concepts of OS, Networking, etc.**
 
-- 👯 I’m looking to collaborate on **NodeJS, ReactJS, JAVA**
+- 👯 I’m looking to collaborate on **JAVA, JAVA EE, Cloud Computing, NodeJS, ReactJS**
 
-- 💬 Ask me about **Data Structure, Operating System, Computer Network, Database(SQL/NoSQL), HTML, CSS, JAVASCRIPT, NodeJS, JAVA, RESTful Services, ReactJS**
+- 💬 Ask me about **Cloud Computing, Data Structure, Operating System, Computer Network, Database(SQL/NoSQL), JAVA, JAVA EE, HTML, CSS, JAVASCRIPT, ReactJS, NodeJS, RESTful Web Services**
 
-- 📫 How to reach me **riteshsutariya91@gmail.com**
+- 📫 How to reach me **riteshsutariya94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
