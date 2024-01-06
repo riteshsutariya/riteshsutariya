@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshsutariya&label=Profile%20views&color=0e75b6&style=flat" alt="riteshsutariya" /> </p>
 
-- 🌱 I’m currently learning **Concepts of OS, Networking, etc.**
+- 🌱 I’m currently learning **Concepts of OS, Networking, DSA etc.**
 
-- 👯 I’m looking to collaborate on **JAVA, JAVA EE, Cloud Computing, NodeJS, ReactJS**
+- 👯 I’m looking to collaborate on **JAVA, JAVA EE, Python, Cloud Computing, NodeJS, ReactJS**
 
-- 💬 Ask me about **Cloud Computing, Data Structure, Operating System, Computer Network, Database(SQL/NoSQL), JAVA, JAVA EE, HTML, CSS, JAVASCRIPT, ReactJS, NodeJS, RESTful Web Services**
+- 💬 Ask me about **Cloud Computing, Data Structure, Operating System, Computer Network, Database(SQL/NoSQL), JAVA, JAVA EE, Python, HTML, CSS, JAVASCRIPT, ReactJS, NodeJS, RESTful Web Services**
 
 - 📫 How to reach me **riteshsutariya27@gmail.com**
 
